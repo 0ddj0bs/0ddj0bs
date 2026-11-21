@@ -7,7 +7,7 @@
 
 ### about me
 
-<img align="right" alt="Zero" width="320" src="./one.jpg" />
+<img align="right" alt="one" width="320" src="./one.jpg" />
 
 just a dev who likes building cool stuff and messing around with machine learning.
 
