@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./mike.jpg" alt="You miss 100% of the shots you don't take - Michael Scott" width="100%" />
+</p>
+
 <div align="center">
   <h1>hey, i'm aryan</h1>
   <p>writing code, training models, figuring things out as i go.</p>
