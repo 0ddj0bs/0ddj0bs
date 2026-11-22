@@ -11,7 +11,7 @@
 
 ### about me
 
-<img align="right" alt="denji" width="240" src="./one.png" />
+<img align="right" alt="denji" width="240" src="./ys.png" />
 
 just a dev who likes building small tools, messing around with machine learning, and seeing how things break.
 
