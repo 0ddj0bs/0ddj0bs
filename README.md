@@ -7,20 +7,24 @@
 
 ### about me
 
-<img align="right" alt="one" width="320" src="./one.png" />
+<img align="right" alt="denji" width="240" src="./one.png" />
 
-just a dev who likes building cool stuff and messing around with machine learning.
+just a dev who likes building small tools, messing around with machine learning, and seeing how things break.
 
-mostly working with **python**, **java**, and **pytorch** lately. when i'm not training models or debugging something that worked five minutes ago, i'm probably deep into backend architecture or grinding dsa.
+mostly working with **python**, **java**, and **pytorch** lately. when i'm not training models or debugging something that worked five minutes ago, i'm usually poking at backend stuff, security/automation scripts, or grinding dsa.
 
-no grand ten-year plan—just trying to write clean code and make things that actually work.
+no grand ten-year plan—just trying to write cleaner code and ship things that actually work.
+
+### currently
+* building small python tools, desktop apps, and cli utilities
+* getting more comfortable with ml workflows and backend architecture
+* turning random ideas into actual repos instead of leaving them in tabs
 
 <br clear="right"/>
 
 ---
 
-### stack
+### stack & tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,pytorch,git,github,vscode" />
-</p>
+**languages & ml:** `python` · `java` · `pytorch`  
+**tooling & workflow:** `git` · `github` · `sqlite` · `vscode`
